@@ -1,4 +1,8 @@
 _repo: Barnavannen-1905-08-Illustrerad-Veckotidning-for-de-Sma_48657
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48657-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Various
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '32681'
     url: http://www.gutenberg.org/2009/agents/32681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48657#Barnavannen-1905-08-Illustrerad-Veckotidning-for-de-Sma
 gutenberg_issued: '2015-04-07'
 gutenberg_type: Text
 identifiers:
